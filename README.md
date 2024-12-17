@@ -4,8 +4,6 @@ I'm curently studying Information Technology
 Looking forward to collaborate with co tech and business experts in solving world problems 
 Email: fuachiee717@gmail.com
 Contact: 0548253251
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
 
 <!---
 Ebene-zer/Ebene-zer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
