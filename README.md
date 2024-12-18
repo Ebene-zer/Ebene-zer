@@ -1,5 +1,4 @@
-Hi, I'm Ebenezer Fuachie 
-Have interest in business, Law and Technology
+Hi, I'm Ebenezer Fuachie.
 I'm curently studying Information Technology
 Looking forward to collaborate with co tech and business experts in solving world problems 
 Email: fuachiee717@gmail.com
