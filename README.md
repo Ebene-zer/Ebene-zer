@@ -1,6 +1,6 @@
 Hi, I'm Ebenezer Fuachie,
 Curently studying Information Technology,
-and looking forward to collaborate with co tech and business experts in solving world problems 
+and looking forward to collaborate with co-tech and business experts in solving world problems.
 Email: fuachiee717@gmail.com
 Contact: 0548253251
 
