@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ebenezer Fuachie 
 
-🎓 Information Technology Student | 🌐 Full-Stack Developer  
+🎓 Information Technology Student | 🌐 Aspiring Full-Stack Developer  
 🧠 Problem-Solver | 🚀 Project Lead | 💻 Backend Enthusiast
 
 ---
