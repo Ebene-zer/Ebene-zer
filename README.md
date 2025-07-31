@@ -50,7 +50,7 @@ I'm a passionate IT student with a growing portfolio of full-stack applications 
 
 -  LinkedIn: www.linkedin.com/in/ebenezer-fuachie-the-man
 -  Email: fuachiee717@gmail.com
-
+-Phone: 0548253251
 ---
 
 > _“It can be done with respect to the mindset. Learn by doing. Lead through code.”_
