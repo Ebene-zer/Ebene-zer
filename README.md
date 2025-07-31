@@ -9,7 +9,6 @@ Problem-Solver | Project Lead | Backend Enthusiast
 
 I'm a passionate IT student with a growing portfolio of full-stack applications and real-world software solutions. I enjoy turning complex problems into clean, efficient code — especially in team settings where collaboration drives results.
 
--  Strong foundation in **Data Structures & Algorithms (Java)**
 -  Backend-first developer: `Node.js`, `Express`, `MongoDB`
 -  Frontend skills with `React.js` and modern UI frameworks
 -  Experienced in Agile teamwork, GitHub Projects, and client collaboration
