@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fuachie Ebenezer
+# 👋 Hi, I'm Ebenezer Fuachie 
 
 🎓 Information Technology Student | 🌐 Full-Stack Developer  
 🧠 Problem-Solver | 🚀 Project Lead | 💻 Backend Enthusiast
