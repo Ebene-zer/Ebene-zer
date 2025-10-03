@@ -47,7 +47,7 @@ I'm a passionate IT student with a growing portfolio of full-stack applications 
 
 ##  Connect With Me
 
--  LinkedIn: www.linkedin.com/in/ebenezer-fuachie-the-man
+-  LinkedIn: www.linkedin.com/in/fuachie-ebenezer
 -  Email: fuachiee717@gmail.com
 -  Phone: 0548253251
 ---
