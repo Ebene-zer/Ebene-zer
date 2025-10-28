@@ -30,7 +30,7 @@ I'm a passionate IT student with a growing portfolio of Software Engineering (fu
 `Node.js` `Express.js` `MongoDB` `SQLite` `MySQL`
 
 **Tools:**  
-`Git` `GitHub` `Postman` `Render` `Figma` `Trello`
+`Git` `GitHub` `Postman` `Figma` `Trello`
 
 ---
 
