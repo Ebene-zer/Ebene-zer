@@ -1,7 +1,6 @@
 # Hi, I'm Ebenezer Fuachie 
 
-Offering IT currently | Aspiring Software Engineer
-Problem-Solver | Backend Enthusiast
+Offering IT currently | Aspiring Software Engineer | Problem-Solver | Backend Enthusiast
 
 ---
 
