@@ -1,13 +1,13 @@
 # Hi, I'm Ebenezer Fuachie 
 
-Information Technology Student | Aspiring Full-Stack Developer  
-Problem-Solver | Project Lead | Backend Enthusiast
+Offering IT currently | Aspiring Software Engineer
+Problem-Solver | Backend Enthusiast
 
 ---
 
 ##  About Me
 
-I'm a passionate IT student with a growing portfolio of full-stack applications and real-world software solutions. I enjoy turning complex problems into clean, efficient code — especially in team settings where collaboration drives results.
+I'm a passionate IT student with a growing portfolio of Software Engineering (full-stack applications and real-world software solutions). I enjoy turning complex problems into clean, efficient code — especially in team settings where collaboration drives results.
 
 -  Backend-first developer: `Node.js`, `Express`, `MongoDB`
 -  Frontend skills with `React.js` and modern UI frameworks
@@ -24,10 +24,10 @@ I'm a passionate IT student with a growing portfolio of full-stack applications 
 ##  Tech Stack
 
 **Languages:**  
-`Java` `JavaScript` `Python` `SQL` 
+`Java` `Python` `C++` `JavaScript` `SQL` 
 
 **Frontend:**  
-`React.js` `Tailwind CSS` `HTML/CSS`
+`HTML/CSS` `Tailwind CSS` `React.js` `Next.js`
 
 **Backend & DB:**  
 `Node.js` `Express.js` `MongoDB` `SQLite` `MySQL`
@@ -39,9 +39,9 @@ I'm a passionate IT student with a growing portfolio of full-stack applications 
 
 ##  Currently Learning
 
+- Data Structures & Competitive Programming
 - Advanced Authentication & Authorization (JWT, OAuth)
 - Full-stack deployment (CI/CD, Docker, Fly.io)
-- Data Structures & Competitive Programming
 
 ---
 
