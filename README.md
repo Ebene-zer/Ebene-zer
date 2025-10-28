@@ -8,8 +8,6 @@ Offering IT currently | Aspiring Software Engineer | Problem-Solver | Backend En
 
 I'm a passionate IT student with a growing portfolio of Software Engineering (full-stack applications and real-world software solutions). I enjoy turning complex problems into clean, efficient code — especially in team settings where collaboration drives results.
 
--  Backend-first developer: `Node.js`, `Express`, `MongoDB`
--  Frontend skills with `React.js` and modern UI frameworks
 -  Experienced in Agile teamwork, GitHub Projects, and client collaboration
 
 ---
