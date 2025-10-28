@@ -24,7 +24,7 @@ I'm a passionate IT student with a growing portfolio of Software Engineering (fu
 `Java` `Python` `C++` `JavaScript` `SQL` 
 
 **Frontend:**  
-`HTML/CSS` `Tailwind CSS` `React.js` `Next.js`
+`HTML/CSS` `Tailwind CSS` `React.js` `Next.js` `PyQt6`
 
 **Backend & DB:**  
 `Node.js` `Express.js` `MongoDB` `SQLite` `MySQL`
