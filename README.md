@@ -1,14 +1,14 @@
 # Hi, I'm Ebenezer Fuachie 
 
-Offering IT currently | Aspiring Software Engineer | Problem-Solver | Backend Enthusiast
+Offering IT currently | Aspiring Software Engineer | Problem-Solver
 
 ---
 
 ##  About Me
 
-I'm a passionate IT student with a growing portfolio of Software Engineering (full-stack applications and real-world software solutions). I enjoy turning complex problems into clean, efficient code — especially in team settings where collaboration drives results.
+I'm a passionate IT student with a growing portfolio of Software Engineering. I enjoy turning complex problems into clean, efficient code — especially in team settings where collaboration drives results.
 
--  Experienced in Agile teamwork, GitHub Projects, and client collaboration
+-  Experienced in Agile teamwork, and client collaboration
 
 ---
 
@@ -21,13 +21,7 @@ I'm a passionate IT student with a growing portfolio of Software Engineering (fu
 ##  Tech Stack
 
 **Languages:**  
-`Java` `Python` `C++` `JavaScript` `SQL` 
-
-**Frontend:**  
-`HTML/CSS` `Tailwind CSS` `React.js` `Next.js` `PyQt6`
-
-**Backend & DB:**  
-`Node.js` `Express.js` `MongoDB` `SQLite` `MySQL`
+`Python` `Java` `C++` `SQL` 
 
 **Tools:**  
 `Git` `GitHub` `Postman` `Figma` `Trello`
@@ -36,9 +30,8 @@ I'm a passionate IT student with a growing portfolio of Software Engineering (fu
 
 ##  Currently Learning
 
-- Data Structures & Competitive Programming
-- Advanced Authentication & Authorization (JWT, OAuth)
-- Full-stack deployment (CI/CD, Docker, Fly.io)
+- Data Structures & Algorithms
+- Python backend implementation
 
 ---
 
@@ -49,4 +42,4 @@ I'm a passionate IT student with a growing portfolio of Software Engineering (fu
 -  Phone: 0548253251
 ---
 
-> _“It can be done with respect to the mindset. Learn by doing. Lead through code.”_
+> _“Let's solve problems.”_
