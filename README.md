@@ -22,11 +22,13 @@ I'm a Junior Software Engineer with a strong focus on backend development using 
 **Languages:**  
 `Python` `Java` `C++` `SQL` 
 
-**Tools:**  
-`Git` `GitHub` `Postman` `Figma` `Trello`
+**Tools & Platforms:**  
+`Git` `GitHub` `Postman` `Figma` `Trello` `CI/CD (GitHub Actions)`
+
+**Also Familiar with:**
+`Javascript` `HTML/CSS` `React` `Next.js` `CI/CD` `PyQt6` `MongoDB Atlas`
 
 ---
-
 
 ---
 
