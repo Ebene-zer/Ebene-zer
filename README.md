@@ -1,13 +1,12 @@
 # Hi, I'm Ebenezer Fuachie 
 
-Offering IT currently | Aspiring Software Engineer | Problem-Solver
+Software Engineer
 
 ---
 
 ##  About Me
 
-I'm a passionate IT student with a growing portfolio of Software Engineering. I enjoy turning complex problems into clean, efficient code — especially in team settings where collaboration drives results.
-
+I'm a Junior Software Engineer with a strong focus on backend development using python. I enjoy building real-world applications, learning through practical projects, and refining solutions to make them efficient and user-focused.
 -  Experienced in Agile teamwork, and client collaboration
 
 ---
@@ -28,10 +27,6 @@ I'm a passionate IT student with a growing portfolio of Software Engineering. I 
 
 ---
 
-##  Currently Learning
-
-- Data Structures & Algorithms
-- Python backend implementation
 
 ---
 
