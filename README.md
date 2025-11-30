@@ -35,8 +35,8 @@ I'm a Junior Software Engineer with a strong focus on backend development using 
 ##  Connect With Me
 
 -  LinkedIn: www.linkedin.com/in/fuachie-ebenezer
--  Email: fuachiee717@gmail.com
+-  Email: efuachie.dev@gmail.com
 -  Phone: 0548253251
 ---
 
-> _“Let's solve problems.”_
+> _“Solving problems.”_
