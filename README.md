@@ -6,17 +6,16 @@ Software Engineer
 
 ##  About Me
 
-I'm a Junior Software Engineer with a strong focus on backend development. I enjoy building real-world applications, learning through practical projects, and refining solutions to make them efficient and user-focused.
--  Experienced in Agile teamwork, and client collaboration
+Junior SWE with a strong interest in learning through practical projects, and refining solutions to make them efficient.
 
 ---
 
-##  Tech Stack
+##  Tech Skill
 
 **Languages:**  
-`Python` `Java` `C++` `JavaScript ` `SQL` 
+`Python` `Java`  
 
-**Tools & Platforms:**  
+**Tools/Frameworks:**  
 `Git` `GitHub` `Postman` `Figma` `Trello` `CI/CD (GitHub Actions)`
 
 
