@@ -6,7 +6,7 @@ Software Engineer
 
 ##  About Me
 
-Junior SWE with a strong interest in learning through practical projects, and refining solutions to make them efficient.
+Junior SWE with strong interest in Backend systems.
 
 ---
 
@@ -25,7 +25,6 @@ Junior SWE with a strong interest in learning through practical projects, and re
 
 -  LinkedIn: www.linkedin.com/in/fuachie-ebenezer
 -  Email: efuachie.dev@gmail.com
--  Phone: 0548253251
 ---
 
 > _“Do it.”_
