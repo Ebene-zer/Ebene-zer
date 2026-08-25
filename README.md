@@ -7,10 +7,10 @@ Junior Software Engineer with strong interest in Backend systems.
 ##  Tech Stack
 
 **Languages:**  
-`Python` `Java`  
+`Python` `Java` `SQL` 
 
 **Tools/Frameworks:**  
-`Git` `GitHub` `Postman` `Figma` `Trello` `CI/CD (GitHub Actions)`
+`Git` `GitHub` `Postman` `CI/CD (GitHub Actions)`
 
 
 ---
@@ -21,4 +21,4 @@ Junior Software Engineer with strong interest in Backend systems.
 -  Email: efuachie.dev@gmail.com
 ---
 
-> _“Do it.”_
+> _“v1.0.0”_
