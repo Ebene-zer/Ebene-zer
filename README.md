@@ -1,11 +1,5 @@
 # Ebenezer Fuachie 
 
-Software Engineer
-
----
-
-##  About Me
-
 Junior Software Engineer with strong interest in Backend systems.
 
 ---
