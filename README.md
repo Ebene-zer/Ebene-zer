@@ -1,4 +1,4 @@
-# Hi, I'm Ebenezer Fuachie 
+# Ebenezer Fuachie 
 
 Software Engineer
 
@@ -6,11 +6,11 @@ Software Engineer
 
 ##  About Me
 
-Junior SWE with strong interest in Backend systems.
+Junior Software Engineer with strong interest in Backend systems.
 
 ---
 
-##  Tech Skill
+##  Tech Stack
 
 **Languages:**  
 `Python` `Java`  
@@ -21,7 +21,7 @@ Junior SWE with strong interest in Backend systems.
 
 ---
 
-##  Connect With Me
+##  Contact
 
 -  LinkedIn: www.linkedin.com/in/fuachie-ebenezer
 -  Email: efuachie.dev@gmail.com
