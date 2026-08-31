@@ -1,6 +1,6 @@
 # Ebenezer Fuachie 
 
-Junior Software Engineer with strong interest in Backend systems.
+IT Student with strong interest in Backend systems.
 
 ---
 
